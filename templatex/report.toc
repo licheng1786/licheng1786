@@ -2,5 +2,3 @@
 \contentsline {section}{\tocsection {}{1}{USE Of BASIC TOOLS AND WEBSITES}}{2}{section.1}%
 \contentsline {section}{\tocsection {}{2}{Date Science}}{3}{section.2}%
 \contentsline {section}{\tocsection {}{3}{QUESTION}}{3}{section.3}%
-\contentsline {section}{\tocsection {}{}{References}}{4}{section*.2}%
-\contentsline {section}{List of Todos}{4}{section*.3}%

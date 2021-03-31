@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.22)  30 MAR 2021 22:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.3.22)  31 MAR 2021 10:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/机器学习/GitHub模板/templatex/report.tex
-(d:/机器学习/GitHub模板/templatex/report.tex
+**d:/smartgit/licheng1786/templatex/report.tex
+(d:/smartgit/licheng1786/templatex/report.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (c:/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2020/05/29 v2.20.6
@@ -122,7 +122,7 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen150
 \Gin@req@width=\dimen151
-) Include comment 'JournalOnly' Include comment 'ConferenceOnly' Include comment 'TulipStyle' (./preamble.tex (c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
+) Include comment 'JournalOnly' Include comment 'ConferenceOnly' Include comment 'TulipStyle' (d:/smartgit/licheng1786/templatex/preamble.tex (c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
 Package: todonotes 2020/08/18 v1.1.3 Todonotes source and documentation.
 Package: todonotes 2018/11/22
  (c:/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
@@ -688,12 +688,12 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
  (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))) (c:/texlive/2020/texmf-dist/tex/latex/nag/nag.sty
+)))
+(c:/texlive/2020/texmf-dist/tex/latex/nag/nag.sty
 Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
 \c@nag@c=\count337
 \c@nag@sins=\count338
-)
-(c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+) (c:/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks51
 \MT@count=\count339
@@ -970,7 +970,7 @@ File: pgflibraryarrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 )) Including 'TulipStyle' comment.
 \openout3 = `comment.cut'.
 
- Straight input of comment.cut. (d:/机器学习/GitHub模板/templatex/comment.cut (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+ Straight input of comment.cut. (d:/smartgit/licheng1786/templatex/comment.cut (c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip92
 \bibsep=\skip93
@@ -1033,7 +1033,19 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 \c@example=\count400
 \c@definition=\count401
 \c@Algorithms=\count402
-)) (d:/机器学习/GitHub模板/templatex/report.aux)
+
+d:/smartgit/licheng1786/templatex/comment.cut:111: Undefined control sequence.
+<argument> \licheng 
+                    1786
+l.111 }
+       
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)) (d:/smartgit/licheng1786/templatex/report.aux)
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1094,7 +1106,6 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
- (d:/机器学习/GitHub模板/templatex/report.out) (d:/机器学习/GitHub模板/templatex/report.out)
 \@outlinefile=\write6
 \openout6 = `report.out'.
 
@@ -1128,25 +1139,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- (./abstract.tex) (d:/机器学习/GitHub模板/templatex/report.toc)
+ (d:/smartgit/licheng1786/templatex/abstract.tex)
 \tf@toc=\write7
 \openout7 = `report.toc'.
 
  [1
 Non-PDF special ignored!
 <special> header=psfrag.pro
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./mainbody.tex
-<Latex2.png, id=68, 1327.96124pt x 642.14906pt>
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (d:/smartgit/licheng1786/templatex/mainbody.tex
+<Latex2.png, id=42, 1327.96124pt x 642.14906pt>
 File: Latex2.png Graphic file (type png)
 <use Latex2.png>
 Package pdftex.def Info: Latex2.png  used on input line 4.
 (pdftex.def)             Requested size: 331.9895pt x 160.53687pt.
-<notion.png, id=69, 1088.56688pt x 395.22656pt>
+<notion.png, id=43, 1088.56688pt x 395.22656pt>
 File: notion.png Graphic file (type png)
 <use notion.png>
 Package pdftex.def Info: notion.png  used on input line 6.
 (pdftex.def)             Requested size: 326.57259pt x 118.56888pt.
-<kaggle.png, id=70, 417.81094pt x 417.05812pt>
+<kaggle.png, id=44, 417.81094pt x 417.05812pt>
 File: kaggle.png Graphic file (type png)
 <use kaggle.png>
 Package pdftex.def Info: kaggle.png  used on input line 8.
@@ -1163,7 +1174,7 @@ Package epstopdf Info: Source file: <logos/tulip-logo.eps>
 (epstopdf)             Command: <repstopdf --outfile=logos/tulip-logo-eps-converted-to.pdf logos/tulip-logo.eps>
 (epstopdf)             \includegraphics on input line 11.
 Package epstopdf Info: Output file is already uptodate.
-<logos/tulip-logo-eps-converted-to.pdf, id=71, 456.70625pt x 622.325pt>
+<logos/tulip-logo-eps-converted-to.pdf, id=45, 456.70625pt x 622.325pt>
 File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 <use logos/tulip-logo-eps-converted-to.pdf>
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input line 11.
@@ -1174,13 +1185,13 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[2 <d:/机器学习/GitHub模板/templatex/Latex2.png> <d:/机器学习/GitHub模板/templatex/notion.png> <d:/机器学习/GitHub模板/templatex/kaggle.png> <c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf>]
-<date science1.png, id=81, 775.89874pt x 580.1675pt>
+[2 <d:/smartgit/licheng1786/templatex/Latex2.png> <d:/smartgit/licheng1786/templatex/notion.png> <d:/smartgit/licheng1786/templatex/kaggle.png> <c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf>]
+<date science1.png, id=56, 775.89874pt x 580.1675pt>
 File: date science1.png Graphic file (type png)
 <use date science1.png>
 Package pdftex.def Info: date science1.png  used on input line 12.
 (pdftex.def)             Requested size: 310.354pt x 232.06288pt.
-<date science2.png, id=83, 1102.1175pt x 574.145pt>
+<date science2.png, id=58, 1102.1175pt x 574.145pt>
 File: date science2.png Graphic file (type png)
 <use date science2.png>
 Package pdftex.def Info: date science2.png  used on input line 13.
@@ -1205,11 +1216,11 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[3 <d:/机器学习/GitHub模板/templatex/date science1.png> <d:/机器学习/GitHub模板/templatex/date science2.png>] (d:/机器学习/GitHub模板/templatex/report.bbl
+[3 <d:/smartgit/licheng1786/templatex/date science1.png> <d:/smartgit/licheng1786/templatex/date science2.png>]
+No file report.bbl.
 
-Package natbib Warning: Empty `thebibliography' environment on input line 8.
+Package hyperref Warning: old tdo file detected, not used; run LaTeX again.
 
-) (d:/机器学习/GitHub模板/templatex/report.tdo)
 \tf@tdo=\write8
 \openout8 = `report.tdo'.
 
@@ -1227,30 +1238,38 @@ File: logos/tulip-logo-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: logos/tulip-logo-eps-converted-to.pdf  used on input line 59.
 (pdftex.def)             Requested size: 7.92348pt x 10.79993pt.
 
-
 Package fancyhdr Warning: \footskip is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
 [4]
 No complaints by nag.
-(d:/机器学习/GitHub模板/templatex/report.aux)
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 49F827718A11AD25CB292B84971FC2FA;665.
+(d:/smartgit/licheng1786/templatex/report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  FE56CEC7C99C0CEE1463119F3F68DF61;456.
  ) 
 Here is how much of TeX's memory you used:
- 36033 strings out of 479014
- 696270 string characters out of 5863086
- 1164163 words of memory out of 5000000
- 52609 multiletter control sequences out of 15000+600000
+ 36014 strings out of 479014
+ 695842 string characters out of 5863086
+ 1163723 words of memory out of 5000000
+ 52603 multiletter control sequences out of 15000+600000
  413165 words of font info for 86 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 107i,14n,134p,613b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 107i,14n,134p,608b,771s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on d:/机器学习/GitHub模板/templatex/report.pdf (4 pages, 669669 bytes).
+Output written on d:/smartgit/licheng1786/templatex/report.pdf (4 pages, 667241 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 26803 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 8 named destinations out of 1000 (max. 500000)
+ 26763 words of extra memory for PDF output out of 29859 (max. 10000000)
 

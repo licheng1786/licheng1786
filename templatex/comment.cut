@@ -103,8 +103,8 @@
 
 \hypersetup
 {
-    pdfauthor={\gitAuthorName},
-    pdfsubject={TULIP Lab},
+    pdfauthor={\licheng1786},
+    pdfsubject={TULIP lab},
     pdftitle={},
     pdfkeywords={TULIP Lab, Data Science},
 % bookmarks=true,

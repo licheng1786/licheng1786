@@ -1,9 +1,9 @@
-PWD d:/����ѧϰ/GitHubģ��/templatex
+PWD d:/smartgit/licheng1786/templatex
 INPUT c:/texlive/2020/texmf.cnf
 INPUT c:/texlive/2020/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/机器学习/GitHub模板/templatex/report.tex
-OUTPUT d:/机器学习/GitHub模板/templatex/report.log
+INPUT d:/smartgit/licheng1786/templatex/report.tex
+OUTPUT d:/smartgit/licheng1786/templatex/report.log
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
@@ -156,17 +156,17 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT ./preamble.tex
-INPUT d:/机器学习/GitHub模板/templatex/preamble.tex
-INPUT ./preamble.tex
-INPUT d:/机器学习/GitHub模板/templatex/preamble.tex
-INPUT d:/机器学习/GitHub模板/templatex/preamble.tex
-INPUT preamble.tex
-INPUT ./preamble.tex
-INPUT d:/机器学习/GitHub模板/templatex/preamble.tex
-INPUT ./preamble.tex
-INPUT d:/机器学习/GitHub模板/templatex/preamble.tex
-INPUT preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
+INPUT d:/smartgit/licheng1786/templatex/preamble.tex
 INPUT c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
@@ -431,7 +431,7 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
-OUTPUT d:/机器学习/GitHub模板/templatex/report.pdf
+OUTPUT d:/smartgit/licheng1786/templatex/report.pdf
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
@@ -1353,11 +1353,11 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
 INPUT c:/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
-OUTPUT d:/机器学习/GitHub模板/templatex/comment.cut
-INPUT d:/机器学习/GitHub模板/templatex/comment.cut
-INPUT d:/机器学习/GitHub模板/templatex/comment.cut
-INPUT d:/机器学习/GitHub模板/templatex/comment.cut
-INPUT d:/机器学习/GitHub模板/templatex/comment.cut
+OUTPUT d:/smartgit/licheng1786/templatex/comment.cut
+INPUT d:/smartgit/licheng1786/templatex/comment.cut
+INPUT d:/smartgit/licheng1786/templatex/comment.cut
+INPUT d:/smartgit/licheng1786/templatex/comment.cut
+INPUT d:/smartgit/licheng1786/templatex/comment.cut
 INPUT c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
@@ -1443,10 +1443,10 @@ INPUT c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/mathtools/mhsetup.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT d:/机器学习/GitHub模板/templatex/report.aux
-INPUT d:/机器学习/GitHub模板/templatex/report.aux
-INPUT d:/机器学习/GitHub模板/templatex/report.aux
-OUTPUT d:/机器学习/GitHub模板/templatex/report.aux
+INPUT d:/smartgit/licheng1786/templatex/report.aux
+INPUT d:/smartgit/licheng1786/templatex/report.aux
+INPUT d:/smartgit/licheng1786/templatex/report.aux
+OUTPUT d:/smartgit/licheng1786/templatex/report.aux
 INPUT c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -1513,17 +1513,7 @@ INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT c:/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 INPUT c:/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-OUTPUT d:/机器学习/GitHub模板/templatex/report.out
+OUTPUT d:/smartgit/licheng1786/templatex/report.out
 INPUT c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2020/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -1563,101 +1553,93 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT ./abstract.tex
-INPUT d:/机器学习/GitHub模板/templatex/abstract.tex
-INPUT ./abstract.tex
-INPUT d:/机器学习/GitHub模板/templatex/abstract.tex
-INPUT d:/机器学习/GitHub模板/templatex/abstract.tex
-INPUT abstract.tex
-INPUT ./abstract.tex
-INPUT d:/机器学习/GitHub模板/templatex/abstract.tex
-INPUT ./abstract.tex
-INPUT d:/机器学习/GitHub模板/templatex/abstract.tex
-INPUT abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
+INPUT d:/smartgit/licheng1786/templatex/abstract.tex
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmti8.tfm
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
-INPUT d:/机器学习/GitHub模板/templatex/report.toc
-INPUT d:/机器学习/GitHub模板/templatex/report.toc
-INPUT d:/机器学习/GitHub模板/templatex/report.toc
-OUTPUT d:/机器学习/GitHub模板/templatex/report.toc
+OUTPUT d:/smartgit/licheng1786/templatex/report.toc
 INPUT c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT ./mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/mainbody.tex
-INPUT ./mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/mainbody.tex
-INPUT mainbody.tex
-INPUT ./mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/mainbody.tex
-INPUT ./mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/mainbody.tex
-INPUT mainbody.tex
-INPUT d:/机器学习/GitHub模板/templatex/Latex2.png
-INPUT d:/机器学习/GitHub模板/templatex/Latex2.png
-INPUT d:/机器学习/GitHub模板/templatex/Latex2.png
-INPUT d:/机器学习/GitHub模板/templatex/Latex2.png
-INPUT d:/机器学习/GitHub模板/templatex/notion.png
-INPUT d:/机器学习/GitHub模板/templatex/notion.png
-INPUT d:/机器学习/GitHub模板/templatex/notion.png
-INPUT d:/机器学习/GitHub模板/templatex/notion.png
-INPUT d:/机器学习/GitHub模板/templatex/kaggle.png
-INPUT d:/机器学习/GitHub模板/templatex/kaggle.png
-INPUT d:/机器学习/GitHub模板/templatex/kaggle.png
-INPUT d:/机器学习/GitHub模板/templatex/kaggle.png
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT d:/smartgit/licheng1786/templatex/mainbody.tex
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm
+INPUT d:/smartgit/licheng1786/templatex/Latex2.png
+INPUT d:/smartgit/licheng1786/templatex/Latex2.png
+INPUT d:/smartgit/licheng1786/templatex/Latex2.png
+INPUT d:/smartgit/licheng1786/templatex/Latex2.png
+INPUT d:/smartgit/licheng1786/templatex/notion.png
+INPUT d:/smartgit/licheng1786/templatex/notion.png
+INPUT d:/smartgit/licheng1786/templatex/notion.png
+INPUT d:/smartgit/licheng1786/templatex/notion.png
+INPUT d:/smartgit/licheng1786/templatex/kaggle.png
+INPUT d:/smartgit/licheng1786/templatex/kaggle.png
+INPUT d:/smartgit/licheng1786/templatex/kaggle.png
+INPUT d:/smartgit/licheng1786/templatex/kaggle.png
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/date science1.png
-INPUT d:/机器学习/GitHub模板/templatex/date science1.png
-INPUT d:/机器学习/GitHub模板/templatex/date science1.png
-INPUT d:/机器学习/GitHub模板/templatex/date science1.png
-INPUT d:/机器学习/GitHub模板/templatex/date science2.png
-INPUT d:/机器学习/GitHub模板/templatex/date science2.png
-INPUT d:/机器学习/GitHub模板/templatex/date science2.png
-INPUT d:/机器学习/GitHub模板/templatex/date science2.png
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/date science1.png
+INPUT d:/smartgit/licheng1786/templatex/date science1.png
+INPUT d:/smartgit/licheng1786/templatex/date science1.png
+INPUT d:/smartgit/licheng1786/templatex/date science1.png
+INPUT d:/smartgit/licheng1786/templatex/date science2.png
+INPUT d:/smartgit/licheng1786/templatex/date science2.png
+INPUT d:/smartgit/licheng1786/templatex/date science2.png
+INPUT d:/smartgit/licheng1786/templatex/date science2.png
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/report.bbl
-INPUT d:/机器学习/GitHub模板/templatex/report.bbl
-INPUT d:/机器学习/GitHub模板/templatex/report.bbl
-INPUT d:/机器学习/GitHub模板/templatex/report.bbl
-INPUT d:/机器学习/GitHub模板/templatex/report.tdo
-INPUT d:/机器学习/GitHub模板/templatex/report.tdo
-INPUT d:/机器学习/GitHub模板/templatex/report.tdo
-OUTPUT d:/机器学习/GitHub模板/templatex/report.tdo
+INPUT d:/smartgit/licheng1786/templatex/report.tdo
+INPUT d:/smartgit/licheng1786/templatex/report.tdo
+OUTPUT d:/smartgit/licheng1786/templatex/report.tdo
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/logos/tulip-logo.eps
+INPUT d:/smartgit/licheng1786/templatex/logos/tulip-logo.eps
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
 INPUT c:/texlive/texmf-local/tex/latex/powerdot-tuliplab/logos/tulip-logo-eps-converted-to.pdf
-INPUT d:/机器学习/GitHub模板/templatex/report.aux
-INPUT d:/机器学习/GitHub模板/templatex/report.out
-INPUT d:/机器学习/GitHub模板/templatex/report.out
+INPUT d:/smartgit/licheng1786/templatex/report.aux
+INPUT d:/smartgit/licheng1786/templatex/report.out
+INPUT d:/smartgit/licheng1786/templatex/report.out
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
